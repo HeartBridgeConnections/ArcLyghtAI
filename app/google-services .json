@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "636371516045",
+    "project_id": "heartbridgeconnections-5214d",
+    "storage_bucket": "heartbridgeconnections-5214d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636371516045:android:ff8063ccb219b2035b00c4",
+        "android_client_info": {
+          "package_name": "com.heartbridgeconnections.arclyghtai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXuVviGLLc0U5mzCH2T710gmk-FpuL2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636371516045-h4c1a4idsiiamqq96pr9nujbfv0bs6e5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636371516045-kb69paia2uibn4d3ctjohgmh5j4p6a4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heartbridgeconnections.thrivecheckai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636371516045:android:6207eb4b33c337b85b00c4",
+        "android_client_info": {
+          "package_name": "com.heartbridgeconnections.thrivecheckai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636371516045-f9mbt2ju28pbct189mmpp7li34jsn21u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heartbridgeconnections.thrivecheckai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXuVviGLLc0U5mzCH2T710gmk-FpuL2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636371516045-h4c1a4idsiiamqq96pr9nujbfv0bs6e5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636371516045-kb69paia2uibn4d3ctjohgmh5j4p6a4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heartbridgeconnections.thrivecheckai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

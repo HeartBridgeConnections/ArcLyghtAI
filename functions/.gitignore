@@ -1,0 +1,8 @@
+# Ignore env secrets
+functions/.env
+
+# Ignore node modules
+functions/node_modules/
+
+# Ignore build output
+functions/lib/
